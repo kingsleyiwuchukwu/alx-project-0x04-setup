@@ -42,7 +42,7 @@ const CounterApp: React.FC = () => {
         </button>
       </div>
 
-      {/* Footer message */}
+      {/* Footer message. */}
       <p className="mt-8 text-sm text-white opacity-75">
         Keep clicking, who knows what happens at 100? 😏
       </p>
